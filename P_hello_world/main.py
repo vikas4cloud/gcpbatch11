@@ -24,7 +24,7 @@ app = Flask(__name__)
 @app.route('/')
 def hello():
     """Return a friendly HTTP greeting."""
-    return 'Hello World / Class from BJSHUB created by Flask -- Flask is micro web framework written in Python!'
+    return 'Hello World / Class from BJSHUB created by Flask -- Flask is micro web framework written in Python by vikas!'
 
 
 if __name__ == '__main__':
